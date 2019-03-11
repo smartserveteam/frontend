@@ -1,5 +1,5 @@
 .background-pic {
-    background-image: url(/images/backgroundpic.jpg);
+    background-image: url(./images/backgroundpic.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 380px;
